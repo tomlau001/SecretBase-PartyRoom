@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SecretBase-PartyRoom/static/css/main.854c28ff.css",
+    "main.js": "/SecretBase-PartyRoom/static/js/main.9ff89b3c.js",
+    "static/media/c-img3.jpg": "/SecretBase-PartyRoom/static/media/c-img3.9a721e61bbbd85cf7e87.jpg",
+    "static/media/c-img2.jpg": "/SecretBase-PartyRoom/static/media/c-img2.cfb1c295384944e8a998.jpg",
+    "static/media/image1.jpg": "/SecretBase-PartyRoom/static/media/image1.6c3594a8ad7c251f795d.jpg",
+    "static/media/image2.jpg": "/SecretBase-PartyRoom/static/media/image2.484f64040e4f67b987f2.jpg",
+    "static/media/c-img1.jpg": "/SecretBase-PartyRoom/static/media/c-img1.628021d447749b14b857.jpg",
+    "static/media/logo.png": "/SecretBase-PartyRoom/static/media/logo.c56d20c7a30366ffe2b1.png",
+    "static/media/boardgame.jpg": "/SecretBase-PartyRoom/static/media/boardgame.502aef5cade47bc0ec3a.jpg",
+    "static/media/beverage.jpg": "/SecretBase-PartyRoom/static/media/beverage.e64075e7a90be89a783a.jpg",
+    "static/media/wifi.jpg": "/SecretBase-PartyRoom/static/media/wifi.c0dbdff16964f06510b1.jpg",
+    "static/media/poker.jpg": "/SecretBase-PartyRoom/static/media/poker.8196dbd72b417e9ce98f.jpg",
+    "static/media/dicecup.jpg": "/SecretBase-PartyRoom/static/media/dicecup.f3f120ad0fd2aa9d3364.jpg",
+    "static/media/hifi.jpg": "/SecretBase-PartyRoom/static/media/hifi.19ce90cbd7a8eac03b1d.jpg",
+    "static/media/mahjong.jpg": "/SecretBase-PartyRoom/static/media/mahjong.9c9e2cbddfde716d1af7.jpg",
+    "static/media/gameboy.jpg": "/SecretBase-PartyRoom/static/media/gameboy.06ef111af647ad1cec29.jpg",
+    "static/media/tv.jpg": "/SecretBase-PartyRoom/static/media/tv.6a792e7169a93b115677.jpg",
+    "index.html": "/SecretBase-PartyRoom/index.html",
+    "main.854c28ff.css.map": "/SecretBase-PartyRoom/static/css/main.854c28ff.css.map",
+    "main.9ff89b3c.js.map": "/SecretBase-PartyRoom/static/js/main.9ff89b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854c28ff.css",
+    "static/js/main.9ff89b3c.js"
+  ]
+}
